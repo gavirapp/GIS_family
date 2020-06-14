@@ -1,0 +1,5 @@
+API tokens:
+
+Default public token:  pk.eyJ1IjoiZ2F2aXJhcHAiLCJhIjoiY2thczl5c203MDkwbTJxcjI4N2lldDEyMCJ9.3KyEHVkQNfNXBvxARH1_Gw
+
+testing_mapbox_george_avirappattu: pk.eyJ1IjoiZ2F2aXJhcHAiLCJhIjoiY2thc2F1MmRjMGU3bzJ3cXl5enludWswZiJ9.L7oEMyX2lRrc4SzmaAV98Q

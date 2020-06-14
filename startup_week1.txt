@@ -1,0 +1,20 @@
+Labs to get started with:
+http://comet.lehman.cuny.edu/owen/teaching/datasci/choroplethLab.html
+
+
+
+Some Key Resources:
+GitHub account and Gist start
+http://apprentice.craic.com/tutorials/20
+
+
+Web page plugins:
+http://apprentice.craic.com/tutorials?page=1
+
+
+GIS data formats:
+http://apprentice.craic.com/tutorials/28
+
+
+Folium Package:
+https://github.com/python-visualization/folium
